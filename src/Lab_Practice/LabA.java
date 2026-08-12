@@ -1,5 +1,5 @@
 package Lab_Practice;
-
+// Data Types
 public class LabA {
     public static void main(String[] args) {
 

@@ -1,5 +1,5 @@
 package Lab_Practice;
-
+// Constants
 public class LabB {
     public static void main(String[] args) {
 
