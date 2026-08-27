@@ -1,5 +1,5 @@
 package Lab_Practice;
-
+//Division
 public class LabD {
     public static void main(String[] args) {
 
